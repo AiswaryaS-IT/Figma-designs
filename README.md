@@ -33,7 +33,7 @@ Notifications & Alerts
 Alerts for parking expiry, upcoming reservations, and deals.
 
 ### Smart Parking App - Figma Design Link
-View the Smart Parking App design in Figma here.
+View the Smart Parking App design in Figma [here](https://www.figma.com/proto/WnBtfatF5sdCsLPh3RI9Wz/smart-parking?node-id=0-1&t=0K4lWBNpZbBvBfwd-1).
 
 ## AI-Based Learning App
 
@@ -60,5 +60,6 @@ User Profile & Settings
 User preferences, history, and goal tracking.
 Progress & Analytics
 Visual learning progress and insights into strengths and areas of improvement.
-AI-Based Learning App - Figma Design Link
-View the AI-Based Learning App design in Figma here.
+
+### AI-Based Learning App - Figma Design Link
+View the AI-Based Learning App design in Figma [here](https://www.figma.com/proto/tfJG2h9kPtvO79iFdoEwnM/Enhanced-Learing-App?node-id=0-1&t=txizmygO5UT8j3lv-1).
